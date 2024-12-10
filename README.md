@@ -16,7 +16,7 @@ I'm a web developer passionate about creating interactive and user-friendly expe
 ### [QuizMapper.js](https://github.com/AliKelDev/QuizMapperJS)
 An advanced quiz system built with React that features intelligent result mapping, animations, and seamless form integration. Perfect for creating engaging user assessments and surveys.
 
-### [Pixelle3 Blog Platform](https://github.com/AliKelDev/AliceBlog)
+### [My Blog](https://github.com/AliKelDev/AliceBlog)
 A modern blog platform designed with React, featuring smooth animations and a great reading experience. Includes dynamic content loading, newsletter integration, and mobile-friendly navigation.
 
 ### [Pixelle3 Web Solutions](https://github.com/AliKelDev/pxl3WebCreation) (Private)
