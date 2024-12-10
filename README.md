@@ -1,3 +1,13 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/AliKelDev"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 # Hi there! I'm AliKelDev 👋
 
 I'm a web developer passionate about creating interactive and user-friendly experiences. Currently building cool stuff with React and modern web technologies.
@@ -10,7 +20,7 @@ An advanced quiz system built with React that features intelligent result mappin
 ### [Pixelle3 Blog Platform](https://github.com/AliKelDev/AliceBlog)
 A modern blog platform designed with React, featuring smooth animations and a great reading experience. Includes dynamic content loading, newsletter integration, and mobile-friendly navigation.
 
-### [Pixelle3 Web Solutions](https://github.com/AliKelDev/pxl3WebCreation)
+### [Pixelle3 Web Solutions](https://github.com/AliKelDev/pxl3WebCreation) (Private)
 A showcase of web development services offering custom websites and digital solutions. Built with React and TailwindCSS, featuring multilingual support and modern design principles.
 
 ## 🛠️ Tech Stack
