@@ -6,28 +6,28 @@
 > *Building digital experiences that spark joy* 🌟
 </div>
 
-I'm a web developer passionate about creating interactive and user-friendly experiences. Currently building cool stuff with React and modern web technologies. ⚡
+I'm a web developer passionate about creating scalable and interactive experiences. Currently building applications with React and modern web technologies. ⚡
 
 ---
 
 ## 🚀 Featured Projects
 <div align="center">
 
-### 🌈 [React + Vite Template](https://github.com/AliKelDev/ReactViteTemplate)
+### 🌈 [React + Vite Template V2](https://github.com/AliKelDev/ReactVite-Template-V2)
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-A modern, production-ready React template featuring a stunning purple-pink gradient design system. Perfect for portfolios, agency websites, and project showcases.
+An advanced, production-ready React template featuring component-driven architecture and enterprise-level structure. Perfect for scalable applications and professional web projects. Looking for something simpler? Check out my [V1 template](https://github.com/AliKelDev/ReactViteTemplate).
 
 #### ✨ Highlights
-- 🎨 Beautiful purple-pink gradient design system
-- 🌟 Modern glassmorphism effects
-- 📱 Fully responsive design
-- 🖼️ Project showcase component with live previews
-- 📦 Zero configuration needed
-- 🔧 JavaScript ready
+- 🏗️ Component-driven architecture
+- 📁 Enterprise-level project structure
+- 🎨 Advanced styling system with animations
+- 📱 Responsive navigation and layouts
+- 🔄 Built-in routing system
+- ⚡ Zero configuration needed
 
 <details>
 <summary>📚 Other Amazing Projects</summary>
@@ -52,6 +52,9 @@ A showcase of web development services offering custom websites and digital solu
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 </div>
 
 ---
@@ -70,7 +73,7 @@ A showcase of web development services offering custom websites and digital solu
 <div align="center">
 
 `🎮 The name "Alice" comes from a game I'm developing - stay tuned!`
-`👾 My profile picture features Kei, a character from my original universe`
+`👾 My profile picture represents an element from a game I'm developing`
 `🎯 Once JNS launches, I'll be shifting gears to focus on game development for a while`
 </div>
 
