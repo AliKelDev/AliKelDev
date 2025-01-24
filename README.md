@@ -19,7 +19,7 @@ I'm a web developer passionate about creating scalable and interactive experienc
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-An advanced, production-ready React template featuring component-driven architecture and enterprise-level structure. Perfect for scalable applications and professional web projects. Looking for something simpler? Check out my [V1 template](https://github.com/AliKelDev/ReactViteTemplate).
+An advanced, production-ready React template featuring component-driven architecture and enterprise-level structure. Perfect for scalable applications and professional web projects. 
 
 #### ✨ Highlights
 - 🏗️ Component-driven architecture
