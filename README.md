@@ -19,6 +19,8 @@ Here are some tools I've created to make my life easier:
 
 - [AliceBlog](https://github.com/AliKelDev/AliceBlog): My blog where I will share thoughts about tech, AI, and whatever interests me, i've been tryharding to sound professionnal and stuff on it, but don't feel like it anymore
 
+- ChefGPT (Work in progress !) it's already working, but doesn't have a cool UI yet. But it will be very cool trust me ^^.
+
 ## Current Thoughts
 
 I'm fascinated by where we're heading with AI and automation. While everyone's making API calls to large language models (which is cool!), I'm particularly excited about the future of small, specialized models running locally. Imagine having highly efficient, task-specific AI right on your device - that's where I think we're heading, and it's going to be awesome. (i really like llms lol)
