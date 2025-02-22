@@ -1,6 +1,6 @@
 # Hi, I'm Jordan (Alikel)
 
-I build stuff that automates tedious tasks because life's too short for repetitive work. Right now, I'm most excited about ChefGPT - AI-powered culinary assistant that puts a Michelin-star chef in your kitchen. Made in collaboration with / Original idea by @[Klima42](https://github.com/Klima42)
+I build stuff that automates tedious tasks because life's too short for repetitive work. Right now, I'm most excited about DeepChef - AI-powered culinary assistant that puts a Michelin-star chef in your kitchen. Made in collaboration with / Original idea by @[Klima42](https://github.com/Klima42)
 
 ## ChefGPT - Your AI Kitchen Companion
 ChefGPT brings the expertise of Auguste, an AI Michelin-starred chef, right to your kitchen. It's not just another recipe app - it's like having a personal chef who:
