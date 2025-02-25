@@ -20,6 +20,7 @@ I have this habit where if I encounter a manual task, my brain immediately start
 * [ReactVite Template V2](https://reactvite-template-alikeldev.netlify.app/): My personal React+Vite starter template to set up new projects quickly
 * [QuizMapperJS](https://quizmapperjs.netlify.app/): A reusable quiz framework to avoid rebuilding quiz logic from scratch
 * [AliceBlog](https://aliceleiserblog.netlify.app/): My blog where I share thoughts about tech, AI, and whatever interests me - keeping it real, no corporate speak
+* DeepFit : coming soon ! it will be an AI coach, workout programming, metrics etc etc, it will be super cool.
 
 ## Current Thoughts
 I'm fascinated by where we're heading with AI and automation. While everyone's making API calls to large language models (which is cool!), I'm particularly excited about the future of small, specialized models running locally. Imagine having highly efficient, task-specific AI right on your device - that's where I think we're heading, and it's going to be awesome.
