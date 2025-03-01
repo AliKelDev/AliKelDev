@@ -10,7 +10,7 @@ DeepFit brings Max, an AI personal fitness coach, to help you achieve your worko
 * Helps you stay consistent and motivated through your fitness journey
 Check out the live demo: https://deepfit-alikearn.netlify.app/
 
-### Deepchef - Your AI Kitchen Companion (made in collaboration with [Klima42](https://github.com/Klima42)
+### Deepchef - Your AI Kitchen Companion (made in collaboration with [Klima42](https://github.com/Klima42) )
 Deepchef features Auguste, an AI Michelin-starred chef for your kitchen:
 * Knows your dietary restrictions, cooking skill level, and what appliances you have
 * Can look at a photo of your ingredients and create custom recipes on the spot
