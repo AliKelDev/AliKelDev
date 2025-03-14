@@ -1,7 +1,7 @@
 # Hi, I'm Jordan (AliKelDev)
 
 ## About Me
-Business development at GitGuardian by day, developer and automation enthusiast always. I specialize in creating tools that eliminate repetitive work and building AI-powered assistants that make daily tasks more intuitive and efficient.
+Business development at GitGuardian by day, automation enthusiast always. I specialize in creating tools that eliminate repetitive work and building AI-powered assistants that make daily tasks more intuitive and efficient.
 
 ## Current Projects
 
