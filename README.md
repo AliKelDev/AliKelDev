@@ -29,9 +29,7 @@ Developed in collaboration with [Klima42](https://github.com/Klima42), DeepChef 
 * Specialized in React applications with optimized user experiences and efficient workflows
 
 ## Additional Projects
-* [ReactVite Template V2](https://reactvite-template-alikeldev.netlify.app/): A professionally configured React+Vite starter template for rapid project initialization
-* [QuizMapperJS](https://quizmapperjs.netlify.app/): A modular quiz framework designed for reusability across projects
-* [AliceBlog](https://aliceleiserblog.netlify.app/): Technical insights on AI, development, and emerging technologies
+* [ReactVite Template V2](https://reactvite-template-alikeldev.netlify.app/): A React+Vite starter template for rapid project initialization
 
 ## Technical Expertise
 * **Frontend**: React, Vite, Tailwind CSS, Framer Motion
