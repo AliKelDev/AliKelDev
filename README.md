@@ -14,7 +14,7 @@ An intelligent fitness companion powered by AI to personalize your workout exper
 
 **[Live Demo](https://deepfit-alikearn.netlify.app/)** | **[Repository](https://github.com/AliKelDev/DeepFit-AI-Personal-Fitness-Coach)**
 
-### DeepChef - AI Culinary Assistant
+### DeepChef - AI Culinary Assistant (under reconstruction !)
 Developed in collaboration with [Klima42](https://github.com/Klima42), DeepChef delivers a premium cooking experience:
 * Adapts to your dietary preferences, skill level, and kitchen equipment
 * Analyzes ingredient photos to generate custom recipes
