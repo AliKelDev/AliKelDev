@@ -17,7 +17,7 @@ The central hub for my specialized AI assistants, hosted at [alikel.net](https:/
 
 [Live Demo](https://alikel.net/) | [Repository](https://github.com/AliKelDev/alikel.net)
 
-### DeepFit - AI Personal Fitness Coach
+### DeepFit - AI Personal Fitness Coach (Hiatus, working mostly on alikel.net and other projects for now)
 
 An intelligent fitness companion powered by **Max**, the same AI fitness coach featured on the `alikel.net` platform. DeepFit focuses specifically on:
 
