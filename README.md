@@ -2,7 +2,11 @@
 
 ## About Me
 
-Business development at GitGuardian by day, automation enthusiast always. I specialize in creating tools that eliminate repetitive work and building AI-powered assistants that make daily tasks more intuitive and efficient.
+BDR (apprentice) at GitGuardian. I generally like AI and automating stuff. Right now i'm working on a multi agent framework to automate tedious tasks, like creating events in a google calendar, checking my mails, answering to them, give me the perfect diet based on my data, stuff like that. Why BDR then ? Because i'm attending a business school and i have no proof as to what i'm capable of technically lol. That's why i'm trying to build a decent portfolio on there. (still a lot of work to be done haha). 
+
+I like playing with vision models too, by the end of the year i'll probably have a semi autonomous drone, too long to explain here, but it would have a multimodal model, a voice, action tokens, and a parser (for the tokens)
+
+The rest of this readme was written by Claude because i trust him to have that necessary corporate tone way much more than me. 
 
 ## Current Projects
 
@@ -16,6 +20,8 @@ The central hub for my specialized AI assistants, hosted at [alikel.net](https:/
 *   **Multimodal Input**: Includes image analysis capabilities for context-aware discussions.
 
 [Live Demo](https://alikel.net/) | [Repository](https://github.com/AliKelDev/alikel.net)
+
+- (it will have a google calendar integration in a short while, it already works but i need to update some front end stuff before making it generally available)
 
 ### DeepFit - AI Personal Fitness Coach (Hiatus, working mostly on alikel.net and other projects for now)
 
@@ -61,4 +67,6 @@ I'm particularly interested in the evolution of AI towards efficient, specialize
 
 ---
 
-Note: Enthusiast of Youjo Senki and Ys VIII: Lacrimosa of Dana.
+Personal notes: 
+- Enthusiast of Youjo Senki, Oshi no ko and Ys VIII: Lacrimosa of Dana.
+- Firm believer that Ajay Che will lead the way, and that Conduit will be the player of the game
