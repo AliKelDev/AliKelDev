@@ -2,6 +2,8 @@
 
 ## About Me
 
+Note : not trying to eventually make money with my projects, i do it because it's fun and it makes my life easier. (mostly because it's fun ^^)
+
 BDR (apprentice) at GitGuardian. I generally like AI and automating stuff. Right now i'm working on a multi agent framework to automate tedious tasks, like creating events in a google calendar, checking my mails, answering to them, give me the perfect diet based on my data, stuff like that. Why BDR then ? Because i'm attending a business school and i have no proof as to what i'm capable of technically lol. That's why i'm trying to build a decent portfolio on there. (still a lot of work to be done haha). 
 
 I like playing with vision models too, by the end of the year i'll probably have a semi autonomous drone, too long to explain here, but it would have a multimodal model, a voice, action tokens, and a parser (for the tokens)
