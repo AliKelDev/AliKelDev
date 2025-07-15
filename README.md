@@ -1,75 +1,72 @@
-# Hi, I'm Jordan (Alikel)
+# Jordan Montée - Technical Portfolio
 
-## About Me
+## Professional Summary
 
-Note : not trying to eventually make money with my projects, i do it because it's fun and it makes my life easier. (mostly because it's fun ^^)
-Unless I'm working with someone else of course!
+Business Development Representative (Apprentice) at GitGuardian with expertise in AI systems development and business process automation. Currently pursuing Master's degree in Business Management while building advanced technical solutions that bridge artificial intelligence and practical business applications.
 
-BDR (apprentice) at GitGuardian. I generally like AI and automating stuff. Right now i'm working on a multi agent framework to automate tedious tasks, like creating events in a google calendar, checking my mails, answering to them, give me the perfect diet based on my data, stuff like that. Why BDR then ? Because i'm attending a business school and i have no proof as to what i'm capable of technically lol. That's why i'm trying to build a decent portfolio on there. (still a lot of work to be done haha). 
+## Current Focus Areas
 
-I like playing with vision models too, by the end of the year i'll probably have a semi autonomous drone, too long to explain here, but it would have a multimodal model, a voice, action tokens, and a parser (for the tokens)
+Developing integrated AI systems for business automation, with particular emphasis on multi-agent frameworks for enterprise productivity enhancement. Specializing in the intersection of artificial intelligence capabilities and real-world business process optimization.
 
-The rest of this readme was written by Claude because i trust him to have that necessary corporate tone way much more than me. 
+## Key Projects
 
-## Current Projects
+### Alikel.net - AI Assistant Platform
 
-### alikel.net - AI Assistant Platform
+Comprehensive AI assistant platform hosted at [alikel.net](https://alikel.net/), featuring specialized AI agents designed for business productivity optimization:
 
-The central hub for my specialized AI assistants, hosted at [alikel.net](https://alikel.net/). This platform features distinct personalities designed to enhance daily productivity and well-being:
+**Core Components:**
+- **Leif**: Productivity assistant with advanced task management, automated scheduling, and organizational workflow optimization
+- **Max**: Performance optimization specialist providing data-driven coaching and analytics
+- **Multi-Agent Architecture**: Concurrent agent interaction system enabling collaborative problem-solving
+- **Multimodal Processing**: Advanced image analysis and context-aware processing capabilities
 
-*   **Leif**: A productivity-focused assistant offering smart task management, integrated timers, and organizational tools powered by "Action Tokens" for automation.
-*   **Max**: The fitness coach (originally from DeepFit), providing personalized workout plans, fitness profile tracking, and evidence-based guidance.
-*   **Multi-Agent Interaction**: Converse with Leif, Max, or both simultaneously for a collaborative experience.
-*   **Multimodal Input**: Includes image analysis capabilities for context-aware discussions.
+**Technical Implementation:**
+- React-based frontend with optimized user experience design
+- Integration with multiple AI models (Gemini, OpenAI, Moondream)
+- Automated workflow processing with "Action Tokens" system
+- Google Calendar integration for enterprise scheduling automation
 
-[Live Demo](https://alikel.net/) | [Repository](https://github.com/AliKelDev/alikel.net)
+[Live Platform](https://alikel.net/) | [Technical Documentation](https://github.com/AliKelDev/alikel.net)
 
-- (it will have a google calendar integration in a short while, it already works but i need to update some front end stuff before making it generally available)
+### DeepFit - AI Performance Optimization System
 
-### DeepFit - AI Personal Fitness Coach (Hiatus, working mostly on alikel.net and other projects for now)
+Intelligent performance optimization platform leveraging AI-driven analytics for personalized improvement strategies:
 
-An intelligent fitness companion powered by **Max**, the same AI fitness coach featured on the `alikel.net` platform. DeepFit focuses specifically on:
+**Key Features:**
+- Customized optimization plans based on comprehensive profile analysis
+- Advanced progress tracking with detailed performance analytics
+- Evidence-based recommendation engine
+- Personalized coaching algorithms for consistency enhancement
 
-*   Creating customized workout plans based on your fitness profile and available equipment
-*   Providing comprehensive progress tracking with detailed analytics
-*   Offering form guidance and tailored exercise recommendations
-*   Enhancing consistency through personalized coaching
+[Platform Demo](https://deepfit-alikearn.netlify.app/) | [Repository](https://github.com/AliKelDev/DeepFit-AI-Personal-Fitness-Coach)
 
-[Live Demo](https://deepfit-alikearn.netlify.app/) | [Repository](https://github.com/AliKelDev/DeepFit-AI-Personal-Fitness-Coach)
+## Professional Achievements
 
-## Professional Highlights
+**GitGuardian Impact:**
+- Developed internal automation tool reducing domain processing workflows from hours to minutes
+- Created business intelligence solutions for efficient data analysis and reporting
+- Implemented process optimization systems resulting in significant operational efficiency gains
 
-*   Developed an internal tool at GitGuardian that reduced domain processing time from hours to under a minute
-*   Created [Alikel Linkgen](https://linkforge-alikeldev.netlify.app/) (personal tool) for efficient LinkedIn search URL generation
-*   Specialized in React applications with optimized user experiences and efficient workflows
-
-## Additional Projects
-
-*   [ReactVite Template V2](https://reactvite-template-alikeldev.netlify.app/): A React+Vite starter template for rapid project initialization
+**Additional Tools:**
+- [Alikel Linkgen](https://linkforge-alikeldev.netlify.app/): Professional networking automation tool for LinkedIn optimization
+- [ReactVite Template V2](https://reactvite-template-alikeldev.netlify.app/): Enterprise-ready development framework for rapid application deployment
 
 ## Technical Expertise
 
-- *Frontend*: React, Vite, Tailwind CSS, Framer Motion
-- *Integration*: AI models (Gemini, OpenAI, Moondream, DeepSeek), API ecosystems
-- *Security*: Application security, secret detection
-- *Infrastructure*: Netlify Functions, CI/CD pipelines
+**Frontend Development:** React, Vite, Tailwind CSS, Framer Motion  
+**AI Integration:** Gemini API, OpenAI GPT models, Moondream vision processing, DeepSeek  
+**Security & Compliance:** Application security protocols, automated secret detection systems  
+**Infrastructure:** Netlify Functions, automated CI/CD pipelines, cloud deployment architectures  
+**Business Intelligence:** Process automation, workflow optimization, data analysis systems
 
 ## Professional Philosophy
 
-> "I have this habit where if I encounter a manual task, my brain immediately starts plotting how to automate it. I'm particularly excited about the future of small, specialized models running locally. I love that we live in a time where anyone can build anything."
+Focused on developing AI solutions that solve real business challenges through practical automation and intelligent process enhancement. Particularly interested in the strategic implementation of specialized AI models for enterprise applications, emphasizing efficiency, scalability, and measurable business impact.
 
-I'm particularly interested in the evolution of AI towards efficient, specialized models running locally on devices - creating more responsive, private, and accessible intelligence for everyday use.
+## Future Development Initiatives
 
-## The Atlas Paradox
-
-![The Atlas Paradox: Carrying Digital Worlds While Standing in Human Reality](tech-identity-paradox.svg)
-- by Claude Sonnet 3.7
-
-"In the space between binary and breath, between efficiency and existence, lives the most interesting paradox of our time: those who build the future must remember what it means to be human."
-- Claude Sonnet 3.7
+Currently advancing research in autonomous systems integration, with planned implementation of multimodal AI systems featuring voice interaction, automated decision-making protocols, and advanced parsing algorithms for enterprise deployment.
 
 ---
 
-Personal notes: 
-- Enthusiast of Youjo Senki, Oshi no ko and Ys VIII: Lacrimosa of Dana.
-- Firm believer that Ajay Che will lead the way, and that Conduit will be the player of the game
+**Contact:** [Professional Portfolio](https://github.com/AliKelDev) | [Live Projects](https://alikel.net/)
