@@ -1,4 +1,4 @@
-# Jordan Montée - Technical Portfolio
+# Jordan Montée
 
 ## Professional Summary
 
@@ -65,8 +65,8 @@ Focused on developing AI solutions that solve real business challenges through p
 
 ## Future Development Initiatives
 
-Currently advancing research in autonomous systems integration, with planned implementation of multimodal AI systems featuring voice interaction, automated decision-making protocols, and advanced parsing algorithms for enterprise deployment.
+Currently advancing research in autonomous systems integration, with planned implementation of multimodal AI systems featuring voice interaction, automated decision-making protocols, and advanced parsing algorithms.
 
 ---
 
-**Contact:** [Professional Portfolio](https://github.com/AliKelDev) | [Live Projects](https://alikel.net/)
+[Professional Portfolio](https://pixelle3-alikearn.com/portfolio)
