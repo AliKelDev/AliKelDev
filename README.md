@@ -22,9 +22,8 @@ Comprehensive AI assistant platform hosted at [alikel.net](https://alikel.net/),
 
 **Technical Implementation:**
 - React-based frontend with optimized user experience design
-- Integration with multiple AI models (Gemini, OpenAI, Moondream)
+- Integration with multiple AI models (Gemini, Moondream)
 - Automated workflow processing with "Action Tokens" system
-- Google Calendar integration for enterprise scheduling automation
 
 [Live Platform](https://alikel.net/) | [Technical Documentation](https://github.com/AliKelDev/alikel.net)
 
