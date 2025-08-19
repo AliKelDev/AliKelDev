@@ -10,22 +10,23 @@ Developing integrated AI systems for business automation, with particular emphas
 
 ## Key Projects
 
-### Alikel.net - AI Assistant Platform
+### alikel.net - My Personal Website & Project Hub
 
-Comprehensive AI assistant platform hosted at [alikel.net](https://alikel.net/), featuring specialized AI agents designed for business productivity optimization:
+This is my personal website where I'll be adding projects as I build them. The main thing on the site right now is a chat application I built to try out an idea with multi-agent AI. It's a work-in-progress where I test concepts.
 
-**Core Components:**
-- **Leif**: Productivity assistant with advanced task management, automated scheduling, and organizational workflow optimization
-- **Max**: Performance optimization specialist providing data-driven coaching and analytics
-- **Multi-Agent Architecture**: Concurrent agent interaction system enabling collaborative problem-solving
-- **Multimodal Processing**: Advanced image analysis and context-aware processing capabilities
+**Current Features on the Site:**
+-   **A chat interface** with two AI agents, Leif and Max.
+-   **Leif (Productivity):** Is prompted to handle organization. It has access to on-site tools for task management, timers, and can connect to Google Calendar.
+-   **Max (Fitness):** Is prompted to act as a fitness coach and can create workout plans based on a user's profile.
+-   **Multi-Agent Mode:** You can chat with both at the same time to see how they interact.
 
-**Technical Implementation:**
-- React-based frontend with optimized user experience design
-- Integration with multiple AI models (Gemini, Moondream)
-- Automated workflow processing with "Action Tokens" system
+**Tech I used:**
+-   React, Vite, Tailwind CSS, Framer Motion
+-   **AI:** Gemini API, Moondream API
+-   **Backend:** Netlify Functions
+-   **DB for Auth:** Supabase (for the Google Calendar connection)
 
-[Live Platform](https://alikel.net/) | [Technical Documentation](https://github.com/AliKelDev/alikel.net)
+[See it live](https://alikel.net/) | [View the code](https://github.com/AliKelDev/alikel.net)
 
 ### DeepFit - AI Performance Optimization System
 
