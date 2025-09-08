@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Business Development Representative (Apprentice) at GitGuardian with expertise in AI systems development and business process automation. Currently pursuing Master's degree in Business Management while building advanced technical solutions that bridge artificial intelligence and practical business applications.
+Apprentice at GitGuardian with expertise in AI systems development and business process automation. Currently pursuing Master's degree in Business Management while building advanced technical solutions that bridge artificial intelligence and practical business applications.
 
 ## Current Focus Areas
 
