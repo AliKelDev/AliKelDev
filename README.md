@@ -28,25 +28,25 @@ While my official role is in business development, my function has evolved to co
 
 A collection of personal work where I build practical solutions to real-world problems.
 
+#### **DeepFit - AI Personal Fitness Coach**
+
+An AI-powered web application that acts as a personal fitness coach. This project was a deep dive into building a system that can analyze user input to generate personalized, structured plans and provide data-driven feedback.
+
+*   [Platform Demo](https://deepfit-alikearn.netlify.app/) | [View Repository](https://github.com/AliKelDev/DeepFit-AI-Personal-Fitness-Coach) | [View Code](https://github.com/AliKelDev/deepfit)
+
 #### **Alikel Linkgen - Prospecting Automation Tool**
 
 Manual creation of complex LinkedIn search queries is slow and error-prone. I built LinkForge as a full-stack web application to solve this.
 
 *   **Functionality:** The tool uses a React/Vite front-end and Netlify Functions on the back-end. Users can input a list of company names, and the application instantly generates validated, bulk Sales Navigator URLs, dramatically speeding up prospecting and account mapping workflows.
 
-*   [Live Demo](https://linkforge-alikeldev.netlify.app/) | [View Repository](https://github.com/AliKelDev/Alikel-Linkgen)
+*   [Live Demo](https://linkforge-alikeldev.netlify.app/) | [View Code](https://github.com/AliKelDev/Alikel-Linkgen)
 
 #### **alikel.net - Multi-Agent Chat Application**
 
 A custom-built chat application designed to experiment with how specialized AI agents can interact within a single interface. The project explores multi-agent collaboration, testing how different AI personas with unique toolsets can work together to assist a user.
 
 *   [Live Demo](https://alikel.net/) | [View Repository](https://github.com/AliKelDev/alikel.net)
-
-#### **DeepFit - AI Personal Fitness Coach**
-
-An AI-powered web application that acts as a personal fitness coach. This project was a deep dive into building a system that can analyze user input to generate personalized, structured plans and provide data-driven feedback.
-
-*   [Platform Demo](https://deepfit-alikearn.netlify.app/) | [View Repository](https://github.com/AliKelDev/DeepFit-AI-Personal-Fitness-Coach)
 
 ---
 
