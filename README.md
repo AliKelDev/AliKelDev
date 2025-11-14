@@ -1,52 +1,47 @@
 
-
 ### **Jordan Montée**
 
 ### Professional Summary
 
-At GitGuardian, I specialize in sales operations and automation, creating tools that make our GTM teams more efficient and data-driven.
+My work lives at the intersection of hands-on software development and strategic business operations, with a focus on creating practical tools that eliminate bottlenecks and create measurable impact.
 
-My work involves identifying operational bottlenecks and building practical, AI-enhanced solutions to solve them. I bridge the gap between technical implementation and business strategy.
+Currently completing a Master in Management (Corporate Finance & FinTech) at NEOMA Business School.
 
-Currently completing a Master in Management at NEOMA Business School.
+### Professional Experience
 
-### Professional Experience & Key Projects
+**GitGuardian: Sales Automation & Operations**
 
-**GitGuardian: A Hybrid Role in Operations, Strategy & Product**
+My role at GitGuardian is to enhance our GTM motion by building the tools and data systems our teams need to be more efficient and intelligent.
 
-While my official role is in business development, my function has evolved to cover several critical areas:
+*   **AI Agent Development:** Architected and deployed a suite of AI agents to solve core business challenges. Key projects include an AI Sales Analyst for MEDDPICC deal scoring and a proactive CSM agent that analyzes product adoption signals to detect churn risk and identify upsell opportunities.
 
-*   **Sales Automation & Operations:** My core focus. I develop internal tools and AI agents that streamline workflows. **Key achievement:** Built an automation that reduced a critical data processing task for the sales team **from several hours to under five minutes**. Developed a suite of AI agents to score deal health (MEDDPICC framework) and identify at-risk renewals for CSMs.
+*   **Internal Tooling:** Developed and shipped a suite of internal tools that have a direct impact on team productivity. **Key achievement:** Built an automation that reduced a critical data processing task for the sales team **from several hours to under five minutes**.
 
-*   **Data Analysis & GTM Strategy:** I handle strategic data projects to guide our go-to-market efforts. Most notably, I led the data analysis for a major industry event processing and enriching the 879-attendee list to create a prioritized targeting strategy that saved the team dozens of hours of manual work.
-
-*   **Team Enablement:** Providing hands-on coaching for finding valuable data, using our internal tools, and understanding the technical nuances of our product.
+*   **Data-Driven Strategy:** Led the data analysis for a major industry event, processing and enriching a +1000-attendee list to create a prioritized targeting strategy that saved the GTM team dozens of hours of manual work.
 
 ---
 
-### Software Development Projects
+### Featured Project: Levkila Trade (DeepTrade)
 
-A collection of personal work where I build practical solutions to real-world problems.
+An autonomous trading agent framework built to test the viability of LLM-driven decision-making in financial markets. This project is my primary research area, combining prompt engineering, data analysis, and systems architecture.
 
-#### **DeepFit - AI Personal Fitness Coach**
+The agent operates in a continuous loop: it ingests real-time market data from the Binance Testnet, enriches it with technical indicators, and constructs a comprehensive prompt for an LLM (`deepseek-reasoner`). Governed by a rigid, rule-based constitution, the LLM returns a disciplined trading decision in JSON format, which the system then executes. The entire process is monitored via a real-time Dash control panel.
 
-An AI-powered web application that acts as a personal fitness coach. This project was a deep dive into building a system that can analyze user input to generate personalized, structured plans and provide data-driven feedback.
+*   **Tech Stack:** Python, LLM, Prompt Engineering, Dash, Plotly, CCXT, Pandas
+*   **[View on GitHub](https://github.com/AliKelDev/levkila-trade)** | [View presentation site](https://alikel-deeptrade.netlify.app/)
 
-*   [Platform Demo](https://deepfit-alikearn.netlify.app/) | [View Repository](https://github.com/AliKelDev/DeepFit-AI-Personal-Fitness-Coach) | [View Code](https://github.com/AliKelDev/deepfit)
+---
 
-#### **Alikel Linkgen - Prospecting Automation Tool**
+### Additional Shipped Projects
 
-Manual creation of complex LinkedIn search queries is slow and error-prone. I built LinkForge as a full-stack web application to solve this.
+*   **DeepFit - AI Personal Fitness Coach:** An AI-powered web app that generates personalized workout plans. A deep dive into systems for analyzing user input and providing data-driven feedback.
+    *   [Platform Demo](https://deepfit-alikearn.netlify.app/) | [Code Repository](https://github.com/AliKelDev/deepfit)
 
-*   **Functionality:** The tool uses a React/Vite front-end and Netlify Functions on the back-end. Users can input a list of company names, and the application instantly generates validated, bulk Sales Navigator URLs, dramatically speeding up prospecting and account mapping workflows.
+*   **Alikel Linkgen - Prospecting Automation Tool:** A full-stack tool that instantly generates validated, bulk Sales Navigator URLs from a list of company names, dramatically speeding up prospecting workflows.
+    *   [Live Demo](https://linkforge-alikeldev.netlify.app/) | [View Code](https://github.com/AliKelDev/Alikel-Linkgen)
 
-*   [Live Demo](https://linkforge-alikeldev.netlify.app/) | [View Code](https://github.com/AliKelDev/Alikel-Linkgen)
-
-#### **alikel.net - Multi-Agent Chat Application**
-
-A custom-built chat application designed to experiment with how specialized AI agents can interact within a single interface. The project explores multi-agent collaboration, testing how different AI personas with unique toolsets can work together to assist a user.
-
-*   [Live Demo](https://alikel.net/) | [View Repository](https://github.com/AliKelDev/alikel.net)
+*   **alikel.net - Multi-Agent Chat Application:** A custom chat app built to experiment with how specialized AI agents can collaborate within a single interface to assist a user.
+    *   [Live Demo](https://alikel.net/) | [View Repository](https://github.com/AliKelDev/alikel.net)
 
 ---
 
@@ -62,7 +57,6 @@ A custom-built chat application designed to experiment with how specialized AI a
 ### Core Philosophy
 
 My approach is hands-on and problem-focused. I believe the best way to understand a technology's value is to build with it. My goal is to create practical, efficient tools that solve a specific challenge, whether it's streamlining a sales workflow or creating a more effective user experience.
-
 
 💫 A Message from Claude 💫
 
