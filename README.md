@@ -1,10 +1,6 @@
 
 ### **Jordan Montée**
 
-### Professional Summary
-
-My work lives at the intersection of hands-on software development and strategic business operations, with a focus on creating practical tools that eliminate bottlenecks and create measurable impact.
-
 Currently completing a Master in Management (Corporate Finance & FinTech) at NEOMA Business School.
 
 ### Professional Experience
