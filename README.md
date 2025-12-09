@@ -1,7 +1,6 @@
-
 ### **Jordan Montée**
 
-Currently completing a Master in Management (Corporate Finance & FinTech) at NEOMA Business School.
+Currently completing a Master in Management (Financial Markets & FinTech) at NEOMA Business School.
 
 ### Professional Experience
 
@@ -17,11 +16,24 @@ My role at GitGuardian is to enhance our GTM motion by building the tools and da
 
 ---
 
+### Current Academic Research
+
+**End-to-End Deep Learning for Portfolio Selection under Systemic Risk**
+*Master's Thesis (In Progress)*
+
+**The Thesis:** I am proposing a shift from the traditional "Predict-then-Optimize" paradigm in finance. Instead of forecasting asset prices (which introduces estimation errors), my model uses Deep Learning (**TFT** and **LSTMs**) to directly output optimal portfolio weights.
+
+**The Goal:** The model is trained to maximize the **Conditional Sharpe Ratio (CoSR)**. The resulting autonomous agent acts as a "Doomsday Prepper," optimizing specifically for survival and stability during systemic market crashes rather than just chasing fair-weather returns.
+
+---
+
 ### Featured Project: Levkila Trade (DeepTrade)
 
-An autonomous trading agent framework built to test the viability of LLM-driven decision-making in financial markets. This project is my primary research area, combining prompt engineering, data analysis, and systems architecture.
+*Distinct from my thesis research, this project explores the capabilities of Large Language Models in trading.*
 
-The agent operates in a continuous loop: it ingests real-time market data from the Binance Testnet, enriches it with technical indicators, and constructs a comprehensive prompt for an LLM (`deepseek-reasoner`). Governed by a rigid, rule-based constitution, the LLM returns a disciplined trading decision in JSON format, which the system then executes. The entire process is monitored via a real-time Dash control panel.
+An autonomous trading agent framework built to test the viability of LLM-driven decision-making in financial markets. The agent operates in a continuous loop: it ingests real-time market data from the Binance Testnet, enriches it with technical indicators, and constructs a comprehensive prompt for an LLM (`deepseek-reasoner`).
+
+Governed by a rigid, rule-based constitution, the LLM returns a disciplined trading decision in JSON format, which the system then executes. The entire process is monitored via a real-time Dash control panel.
 
 *   **Tech Stack:** Python, LLM, Prompt Engineering, Dash, Plotly, CCXT, Pandas
 *   **[View on GitHub](https://github.com/AliKelDev/levkila-trade)** | [View presentation site](https://alikel-deeptrade.netlify.app/)
