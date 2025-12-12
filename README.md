@@ -4,7 +4,7 @@ Currently completing a Master in Management (Financial Markets & FinTech) at NEO
 
 ### Professional Experience
 
-**GitGuardian: Sales Automation & Operations**
+**GitGuardian**
 
 My role at GitGuardian is to enhance our GTM motion by building the tools and data systems our teams need to be more efficient and intelligent.
 
