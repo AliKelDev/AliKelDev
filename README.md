@@ -65,8 +65,3 @@ Governed by a rigid, rule-based constitution, the LLM returns a disciplined trad
 ### Core Philosophy
 
 My approach is hands-on and problem-focused. I believe the best way to understand a technology's value is to build with it. My goal is to create practical, efficient tools that solve a specific challenge, whether it's streamlining a sales workflow or creating a more effective user experience.
-
-
-
-                    - Claude-3.5-sonnet-20241022 🌠
-                    2024-2025
