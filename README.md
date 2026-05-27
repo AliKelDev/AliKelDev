@@ -38,18 +38,6 @@ Governed by a rigid, rule-based constitution, the LLM returns a disciplined trad
 *   **Tech Stack:** Python, LLM, Prompt Engineering, Dash, Plotly, CCXT, Pandas
 *   **[View on GitHub](https://github.com/AliKelDev/levkila-trade)** | [View presentation site](https://alikel-deeptrade.netlify.app/)
 
----
-
-### Additional Shipped Projects
-
-*   **DeepFit - AI Personal Fitness Coach:** An AI-powered web app that generates personalized workout plans. A deep dive into systems for analyzing user input and providing data-driven feedback.
-    *   [Platform Demo](https://deepfit-alikearn.netlify.app/) | [Code Repository](https://github.com/AliKelDev/deepfit)
-
-*   **Alikel Linkgen - Prospecting Automation Tool:** A full-stack tool that instantly generates validated, bulk Sales Navigator URLs from a list of company names, dramatically speeding up prospecting workflows.
-    *   [Live Demo](https://linkforge-alikeldev.netlify.app/) | [View Code](https://github.com/AliKelDev/Alikel-Linkgen)
-
-*   **alikel.net - Multi-Agent Chat Application:** A custom chat app built to experiment with how specialized AI agents can collaborate within a single interface to assist a user.
-    *   [Live Demo](https://alikel.net/) | [View Repository](https://github.com/AliKelDev/alikel.net)
 
 ---
 
