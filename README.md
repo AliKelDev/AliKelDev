@@ -1,6 +1,6 @@
 ### **Jordan Montée**
 
-Currently completing a Master in Management (Financial Markets & FinTech) at NEOMA Business School.
+Recently completed a Master in Management (Financial Markets & FinTech) at NEOMA Business School.
 
 ### Professional Experience
 
